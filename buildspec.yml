@@ -21,5 +21,3 @@ artifacts:
   base-directory: build
 
 
-Git remote add origin https://github.com/RodGodoy/recipe-project.git
-Git push -u origin master
